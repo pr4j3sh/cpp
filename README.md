@@ -2,7 +2,7 @@
 
 A `cpp` package/library template that uses Make build tool.
 
-## Instatallation
+## Installation
 
 ```bash
 npm create @pr4j3sh/frames@latest cpp mypkg
